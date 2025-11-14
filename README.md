@@ -8,8 +8,6 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="#" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-  <code><a href="#" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> StackOverflow</a></code>
 </h5>
 
 <br>
