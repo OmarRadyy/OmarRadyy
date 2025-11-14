@@ -17,7 +17,7 @@
   Hi, I'm <b>Omar Rady</b> 👨‍💻<br>
   📍 AI & Data Science Student at El Sewedy University<br>
   🎯 Passionate about Machine Learning, Deep Learning, and Computer Vision<br>
-  🧠 I work with Python, C++, Java, and Data Analysis tools<br>
+  🧠 I work with Python, C++, Java, Html and Data Analysis tools<br>
   📚 Currently learning advanced AI concepts and building real-world projects<br>
   💬 Ask me anything — always happy to help!<br>
   📫 Contact: <a href="mailto: orady2409@gmail.com">orady2409@gmail.com</a>
