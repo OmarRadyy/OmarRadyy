@@ -7,9 +7,9 @@
   </a>
 </h1>
 
-<h5 align="center">
+<!-- <h5 align="center">
   <code><a href="https://www.linkedin.com/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-</h5>
+</h5> -->
 
 <br>
 
@@ -26,19 +26,17 @@
 <hr>
 
 <h2 align="center">🔥 Languages & Tools 🔥</h2>
-<br>
 
 <p align="center">
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="Pandas" height="25" src="images/pandas.svg"></code>
-  <code><img title="YOLOv5" height="25" src="images/yolo.png"></code>
-  <code><img title="Ultralytics" height="25" src="images/ultralytics.png"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Jupyter" height="25" src="images/jupyter.svg"></code>
+  <img title="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img title="C++" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img title="Java" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img title="CSS3" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img title="Pandas" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img title="VS Code" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img title="Jupyter" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
 </p>
 
 <hr>
