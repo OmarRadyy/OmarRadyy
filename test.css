@@ -1,0 +1,77 @@
+body{
+    background-image: url(web.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    text-decoration: underline dashed;
+    font-size: 150%;
+    font-variant: small-caps;
+    color: #00ff00;
+}
+
+.lab5{
+    text-decoration: underline;
+    color: brown;
+}
+
+ul{
+    color: orange;
+}
+
+#red{
+    color: red;
+}
+
+a:link{
+    color: greenyellow;
+    text-decoration: none;
+}
+
+a:visited{
+    color: red;
+}
+
+a:hover{
+    color: aqua;
+    font-size: 22px;
+}
+
+a:active{
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+blockquote{
+    display: none;
+}
+
+.overflow{
+    border: solid black 8px;
+    width: 200px;
+    height: 100px;
+    overflow: auto;
+}
+
+.container{
+    background: brown;
+    padding: 10px;
+    display: flex;
+    flex-flow: row wrap-reverse;
+    height: 300px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.container div{
+    width: 100px;
+    height: 100px;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(255,255,255,0.3);
+    margin: 10px;
+}
