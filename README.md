@@ -1,46 +1,56 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-### Languages
+### <div align="center">I'm Rishav, a software consultant and an indie hacker 👨‍💻 working remotely since 2013 🚀</div>  
+  
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+- 🔭 I’m currently working on [BrewMyTech](https://www.brewmytech.com) & [RewardMatrix](https://www.rewardmatrix.com)  
+  
 
-### Technologies
+- 🌱 I’m currently trying to keep up with the latest developments in AI
+  
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+- ❓ Ask me about anything related to MERN stack and related technologies, MCPs, RAG & Chatbots. 
+  
 
-### Full Stack Projects
+- ⚡ Fun fact: I like to keep my night shift activated 24 x 7
+  
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
+<br/>  
 
-### Cybersecurity Projects
 
-[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
-[![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/adamalston/SYN-Flood)
-[![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
-[![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/adamalston/SQL-Injection)
-[![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
-[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
+## Connect with me  
+<div align="center">
+<a href="https://github.com/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true" align="center" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+</div>  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
