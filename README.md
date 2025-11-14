@@ -1,56 +1,35 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
 
-### <div align="center">I'm Rishav, a software consultant and an indie hacker 👨‍💻 working remotely since 2013 🚀</div>  
-  
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
 
-- 🔭 I’m currently working on [BrewMyTech](https://www.brewmytech.com) & [RewardMatrix](https://www.rewardmatrix.com)  
-  
+```txt
+TypeScript   5 hrs 47 mins   ██████████████████▒░░░░░░   73.66 %
+JavaScript   1 hr 31 mins    █████░░░░░░░░░░░░░░░░░░░░   19.36 %
+JSON         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+Bash         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+```
 
-- 🌱 I’m currently trying to keep up with the latest developments in AI
-  
+<!--END_SECTION:waka-->
 
-- ❓ Ask me about anything related to MERN stack and related technologies, MCPs, RAG & Chatbots. 
-  
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-- ⚡ Fun fact: I like to keep my night shift activated 24 x 7
-  
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  8,004 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true" align="center" /></div>  
+📈 my github stats
 
-<br/>  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
 
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
